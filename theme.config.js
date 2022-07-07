@@ -4,7 +4,7 @@ export default {
   titleSuffix: '.xyz',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">3r4N0VUM</span>
+      <span className="mr-2 font-extrabold hidden md:inline">3R4N0VUM</span>
       <span className="text-gray-600 font-normal hidden md:inline">
         Trust, but Validate.
       </span>
@@ -62,6 +62,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © 3r4N0VUM.</>,
+  footerText: <>MIT {new Date().getFullYear()} © 3R4N0VUM.</>,
   unstable_faviconGlyph: '👋',
 }
