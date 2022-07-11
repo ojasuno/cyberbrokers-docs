@@ -1,9 +1,7 @@
 {
   "index": "Introduction",
-  "cyberbroker-render": "CyberBrokers Render",
-  "cyberbroker-card": "CyberBrokers Card",
-  "cyberbroker-banner": "CyberBrokers Banner",
-  "weekly-update": "Weekly Update",
+  "cyberbroker": "CyberBroker",
+  "weekly-update": "Weekly",
   "newspaper": "Newspaper",
   "Reference": "Reference"
 }
