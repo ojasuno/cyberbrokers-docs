@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  github: 'https://github.com/ojasuno/cyberbrokers-docs',
+  docsRepositoryBase: 'https://github.com/ojasuno/cyberbrokers-docs/blob/master',
   titleSuffix: '.xyz',
   logo: (
     <>
@@ -16,13 +16,13 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Nextra: the Next.js site builder" />
-      <meta name="og:description" content="Nextra: the Next.js site builder" />
+      <meta name="description" content="Tust, but validate" />
+      <meta name="og:description" content="Trust, but validate" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
+      <meta name="twitter:site:domain" content="3r4n0vum.xyz" />
+      <meta name="twitter:url" content="https://3r4n0vum.xyz/" />
+      <meta name="og:title" content="Trust, but validate" />
       <meta name="og:image" content="https://nextra.vercel.app/og.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
@@ -61,7 +61,7 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: 'Edit this page on GitHub',
+  footerEditLink: 'GitHub',
   footerText: <>MIT {new Date().getFullYear()} © 3R4N0VUM.</>,
-  unstable_faviconGlyph: '👋',
+  unstable_faviconGlyph: '🖖',
 }
