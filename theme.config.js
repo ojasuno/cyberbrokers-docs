@@ -64,4 +64,5 @@ export default {
   footerEditLink: 'GitHub',
   footerText: <>MIT {new Date().getFullYear()} © 3R4N0VUM.</>,
   unstable_faviconGlyph: '🖖',
+  defaultMenuCollapsed: true,
 }
