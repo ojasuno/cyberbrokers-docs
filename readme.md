@@ -11,10 +11,10 @@ _Warning: this is an UNOFFICAL project, built and maintained by a [CYBERBROKERS]
 
 Thanks to fellow Creators & Builders, who made this possible.
 
-[CarTarL](https://github.com/CarTarL)
-[THE FIZZY](https://www.thefizzy.io/)
-[dievardump](https://github.com/dievardump)
-[EtheralStates](https://twitter.com/EtherealStates)
+- [CarTarL](https://github.com/CarTarL)
+- [THE FIZZY](https://www.thefizzy.io/)
+- [dievardump](https://github.com/dievardump)
+- [EtheralStates](https://twitter.com/EtherealStates)
 
 ---
 
