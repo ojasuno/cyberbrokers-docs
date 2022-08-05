@@ -5,7 +5,7 @@
 _Warning: this is an UNOFFICAL project, built and maintained by a [CYBERBROKERS](https://cyberbrokers.io/) community member._
 
 
-![](/public/demo.png)
+![](/public/eranovum.png)
 
 ---
 
