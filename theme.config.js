@@ -19,12 +19,12 @@ export default {
       <meta name="description" content="Tust, but validate" />
       <meta name="og:description" content="Trust, but validate" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
+      <meta name="twitter:image" content="https://www.eranovum.xyz/eranovum.png" />
       <meta name="twitter:site:domain" content="3r4n0vum.xyz" />
       <meta name="twitter:url" content="https://3r4n0vum.xyz/" />
       <meta name="og:title" content="Trust, but validate" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <meta name="og:image" content="https://www.eranovum.xyz/eranovum.png" />
+      <meta name="apple-mobile-web-app-title" content="ERANOVUM" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
