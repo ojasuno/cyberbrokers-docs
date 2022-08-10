@@ -11,6 +11,8 @@
   "author": "Shu Ding",
   "license": "MIT",
   "dependencies": {
+    "@mbostock/polar-clock": "https://api.observablehq.com/@mbostock/polar-clock.tgz?v=3",
+    "@observablehq/runtime": "4",
     "next": "^12.1.0",
     "nextra": "^1.1.0",
     "nextra-theme-docs": "^1.2.2",
