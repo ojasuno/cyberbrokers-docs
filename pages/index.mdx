@@ -7,10 +7,7 @@ import Bleed from 'nextra-theme-docs/bleed'
 <div id="observablehq-chart-ac4ceca4"></div>
 <p>Credit: <a href="https://observablehq.com/@mbostock/polar-clock">Polar Clock by Mike Bostock</a></p>
 
-<script type="module">
-import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-import define from "https://api.observablehq.com/@mbostock/polar-clock.js?v=3";
-new Runtime().module(define, name => {
-  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-ac4ceca4"));
-});
-</script>
+<iframe width="100%" height="1004.609375" frameborder="0"
+  src="https://observablehq.com/embed/@mbostock/polar-clock?cells=chart"></iframe>
+
+  ---
